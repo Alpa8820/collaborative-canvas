@@ -21,9 +21,8 @@ For this project I used:
 - [Socket.io](https://socket.io/) - both to create backend
 
 ## About Me
-Hi! 👋 I'm Tijan, passionate **blockchain developer** from Slovenia. Take a look at my portfolio website [here](https://alpa8820).
+Hi! 👋 I'm Alpa, passionate **blockchain developer** from Japan. Take a look at my portfolio website [here](https://alpa8820).
 
-Do you like my work? You can support me by donating to this address: 0xC4C6A0bc6648a4F343bd86D7C48C9967530fbB48
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
