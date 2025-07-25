@@ -6,9 +6,9 @@ Please leave a ⭐ if you like it.
 ![Whiteboard App Preview](./whiteboard-app-preview.png)
 
 ## Try It Out
-You can try it [here](https://tijan.dev/).
+You can try it [here](https://alpa8820).
 
-If you find any **errors** ⛔, please report them to [errors@tijan.dev](mailto:errors@tijan.dev) thanks 🙏.
+If you find any **errors** ⛔, please report them to [alpa26846@gmail.com](mailto:alpa26846@gmail.com) thanks 🙏.
 
 ## Technologies
 For this project I used:
@@ -21,9 +21,7 @@ For this project I used:
 - [Socket.io](https://socket.io/) - both to create backend
 
 ## About Me
-Hi! 👋 I'm Tijan, passionate **blockchain developer** from Slovenia. Take a look at my portfolio website [here](https://tijan.dev).
-
-You can get in touch with me through my [website](https://tijan.dev), contact me on [twitter](https://twitter.com/0xTijan) or you can send me an email to [contactme@tijan.dev](mailto:contactme@tijan.dev).
+Hi! 👋 I'm Tijan, passionate **blockchain developer** from Slovenia. Take a look at my portfolio website [here](https://alpa8820).
 
 Do you like my work? You can support me by donating to this address: 0xC4C6A0bc6648a4F343bd86D7C48C9967530fbB48
 
